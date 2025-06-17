@@ -27,4 +27,5 @@ follow
   file .env
 ```
 you should see ASCII text
+and again execute the script .finame.sh
 
