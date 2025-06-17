@@ -1,0 +1,45 @@
+# VS Code settings and folders
+.vscode/
+*.code-workspace
+
+# Log files
+*.log
+*.txt
+
+
+# Environment variables
+# .env - in prod dont upload since its open source am commenting it out
+# .env.* - in prod dont upload since its open source am commenting it out
+
+# Shell history
+.bash_history
+.zsh_history
+
+# Compiled or temp files
+*.swp
+*~
+*.tmp
+
+# PID files
+*.pid
+
+# msmtp config (if stored here)
+# .msmtprc - in prod dont upload since its open source am commenting it out
+
+# nohup output (if running scripts in background)
+nohup.out
+
+# OS-specific
+.DS_Store            # macOS
+Thumbs.db            # Windows
+
+# Backup files
+*.bak
+*.old
+
+# Resource monitor logs (custom)
+resource_monitor_logfile.txt
+'resource_monitor_logfile.txt'$'\r' - if changed formatting from windows to linux
+
+# Hidden junk files
+._*
