@@ -10,7 +10,8 @@ This project provides a **Bash-based system resource monitor** that checks CPU, 
 follow the **msmtpSetUpforMail folder**
 
 once mail config is setup, follow the steps
-In .env define the values
+
+In ."env" define the values
 Give Exec permissions to the scripts
 chmod 700 <filename>
 
